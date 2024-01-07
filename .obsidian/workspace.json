@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "1.auto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "1.auto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "1.auto.md"
               }
             }
           }
@@ -172,12 +172,12 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "1e393949bb653b9b",
+  "active": "313a58ab8e840691",
   "lastOpenFiles": [
+    "index.md",
     "1.auto.md",
     "auto/Авто Ваз.md",
     "auto/audi.md",
-    "index.md",
     "templaits/autoTmp.md",
     "auto/bmw.md",
     "templaits",
