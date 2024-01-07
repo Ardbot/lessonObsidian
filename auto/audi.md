@@ -1,8 +1,9 @@
 ---
 aliases:
   - Ауди
-share: false
+share: true
 ---
+
 # Audi
 ## Характеристики
 - Скорость: 200 км/ч
