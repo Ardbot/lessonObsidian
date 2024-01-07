@@ -30,6 +30,18 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "ada561e46e19366c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "auto/audi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -161,11 +173,15 @@
   },
   "active": "313a58ab8e840691",
   "lastOpenFiles": [
-    "index.md",
-    "auto/Toyota.md",
-    "docs.md",
-    "auto/bmw.md",
+    "auto/audi.md",
     "1.auto.md",
+    "index.md",
+    "templaits/autoTmp.md",
+    "auto/bmw.md",
+    "templaits",
+    "auto/Toyota.md",
+    "_config.yml",
+    "docs.md",
     "auto",
     "About.md",
     "Первая заметка.md",
