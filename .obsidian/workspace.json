@@ -18,13 +18,13 @@
             }
           },
           {
-            "id": "313a58ab8e840691",
+            "id": "666fe9874369d894",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.auto.md",
+                "file": "Последовательность действий.md",
                 "mode": "source",
                 "source": false
               },
@@ -32,19 +32,19 @@
             }
           },
           {
-            "id": "1e393949bb653b9b",
+            "id": "f9c3338722239acb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "trucks/kamaz.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.auto.md",
+                "file": "trucks/kamaz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.auto.md",
+                "file": "trucks/kamaz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.auto.md"
+                "file": "trucks/kamaz.md"
               }
             }
           }
@@ -172,14 +172,24 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "313a58ab8e840691",
+  "active": "f9c3338722239acb",
   "lastOpenFiles": [
-    "index.md",
-    "1.auto.md",
-    "auto/Авто Ваз.md",
-    "auto/audi.md",
-    "templaits/autoTmp.md",
+    "auto/volvo.md",
+    "auto/toyota.md",
     "auto/bmw.md",
+    "auto/Belaz.md",
+    "auto/audi.md",
+    "Последовательность действий.md",
+    "templaints/characteristics.md",
+    "templaints/шаблон.md",
+    "1.auto.md",
+    "trucks/kamaz.md",
+    "trucks",
+    "index.md",
+    "auto",
+    "templaints",
+    "auto/Авто Ваз.md",
+    "templaits/autoTmp.md",
     "templaits",
     "auto/Toyota.md",
     "_config.yml",

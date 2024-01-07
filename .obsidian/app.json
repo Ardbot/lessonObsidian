@@ -1,7 +1,7 @@
 {
   "promptDelete": false,
-  "useMarkdownLinks": false,
-  "newLinkFormat": "shortest",
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
   "showInlineTitle": false,
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
