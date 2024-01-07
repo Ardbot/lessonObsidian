@@ -18,15 +18,17 @@
             }
           },
           {
-            "id": "348e95e7d20e1dda",
+            "id": "313a58ab8e840691",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "1.auto.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "1.auto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "1.auto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "1.auto.md"
               }
             }
           }
@@ -157,9 +159,14 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "348e95e7d20e1dda",
+  "active": "313a58ab8e840691",
   "lastOpenFiles": [
     "index.md",
+    "auto/Toyota.md",
+    "docs.md",
+    "auto/bmw.md",
+    "1.auto.md",
+    "auto",
     "About.md",
     "Первая заметка.md",
     "Вторая заметка.md"

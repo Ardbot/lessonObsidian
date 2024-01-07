@@ -1,3 +1,2 @@
-[README](/README.md) - md link
+[docs](docs.md) - md link
 [About](/About.md) - md link
-[[About]] - wiki - link
