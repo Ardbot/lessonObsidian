@@ -1,6 +1,13 @@
 {
   "promptDelete": false,
-  "useMarkdownLinks": true,
-  "newLinkFormat": "relative",
-  "showInlineTitle": false
+  "useMarkdownLinks": false,
+  "newLinkFormat": "shortest",
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "auto",
+  "attachmentFolderPath": "./files",
+  "userIgnoreFilters": [
+    "README"
+  ]
 }

@@ -30,18 +30,6 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "ada561e46e19366c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "auto/audi.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -168,13 +156,15 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
   "active": "313a58ab8e840691",
   "lastOpenFiles": [
-    "auto/audi.md",
+    "auto/Авто Ваз.md",
     "1.auto.md",
+    "auto/audi.md",
     "index.md",
     "templaits/autoTmp.md",
     "auto/bmw.md",
